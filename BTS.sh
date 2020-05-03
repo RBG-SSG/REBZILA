@@ -195,10 +195,10 @@ rm -rf /storage/emulated/0/Android/data/RBG_VIP
 pm install -r /data/app/com.pubg.krmobile*/base.apk
 date
 echo "PROJECT BROUGHT TO U BY ...."
-echo "RAINBOW BUTTERFLY GAMING"
+echo "BANGLADESH TIGERS SQUAD"
 sleep 0.5
-echo "TELEGRAM CHANNEL @RainbowButterflyGaming"
+echo "TELEGRAM CHANNEL @BANGLADESH TIGERS SQUAD"
 sleep 0.5
-echo "PROJECT TERMINAL V1.5 FOR ONLY VVIP MEMBERS"
+echo "PROJECT TERMINAL V2.0 FOR ONLY VVIP MEMBERS"
 sleep 1
 am force-stop com.termux
